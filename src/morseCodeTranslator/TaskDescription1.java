@@ -1,4 +1,8 @@
 package morseCodeTranslator;
+
+public class TaskDescription1 {
+
+}
 /*
 Uppgift:
 

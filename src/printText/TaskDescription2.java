@@ -1,5 +1,8 @@
 package printText;
 
+public class TaskDescription2 {
+}
+
 /*
 Uppgift:
 
@@ -18,7 +21,5 @@ det längsta ordet.
 * Testfallen skall skilja sig märkvärt åt och testa olika delar av programmet
 
 * Programmet skall versionshanteras och finnas tillgängligt på Github.
-
-
 
  */
